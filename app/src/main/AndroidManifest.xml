@@ -12,6 +12,15 @@
         android:theme="@style/Theme.Reproductor"
         tools:targetApi="31">
         <activity
+            android:name=".vallenato"
+            android:exported="false" />
+        <activity
+            android:name=".rock"
+            android:exported="false" />
+        <activity
+            android:name=".pop"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
