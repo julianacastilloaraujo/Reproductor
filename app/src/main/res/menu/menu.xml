@@ -5,13 +5,13 @@
         android:id="@+id/guardar"
         android:title="Guardar"
         android:icon="@drawable/baseline_save_24"
-
+        app:showAsAction="ifRoom"/>
 
 
         <item
             android:id="@+id/compartir"
             android:title="Compartir"
             android:icon="@drawable/baseline_share_24"
-            
+            app:showAsAction="ifRoom"/>
 
 </menu>
