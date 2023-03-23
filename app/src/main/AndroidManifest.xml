@@ -18,7 +18,7 @@
             android:name=".rock"
             android:exported="false" />
         <activity
-            android:name=".pop"
+            android:name=".salsa"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

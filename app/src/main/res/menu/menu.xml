@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
+   <item
+       android:id="@+id/merengue"
+       android:title="Merengue"
+
+
     <item
-        android:id="@+id/guardar"
-        android:title="Guardar"
-        android:icon="@drawable/baseline_save_24"
-
-
+        android:id="@+id/salsa"
+        android:title="Salsa"
+        android:icon="@drawable/_776114_3"
+        app:showAsAction="ifRoom"/>
 
         <item
-            android:id="@+id/compartir"
-            android:title="Compartir"
-            android:icon="@drawable/baseline_share_24"
+            android:id="@+id/vallenato"
+            android:title="Vallenato"
+            android:icon="@drawable/vallenato"
+            app:showAsAction="ifRoom"
             
 
 </menu>

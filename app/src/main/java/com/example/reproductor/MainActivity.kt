@@ -19,8 +19,9 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when(item.itemId){
-            R.id.guardar -> Toast.makeText(this, "boton Guardar", Toast.LENGTH_SHORT).show()
-            R.id.compartir -> Toast.makeText(this, "boton Compartir", Toast.LENGTH_SHORT).show()
+            R.id.merengue -> Toast.makeText(this, "boton Merengue", Toast.LENGTH_SHORT).show()
+            R.id.salsa -> Toast.makeText(this, "boton Salsa", Toast.LENGTH_SHORT).show()
+            R.id.vallenato -> Toast.makeText(this, "boton Vallenato", Toast.LENGTH_SHORT).show()
         }
         return super.onOptionsItemSelected(item)
     }
