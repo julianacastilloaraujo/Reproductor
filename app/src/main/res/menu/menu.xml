@@ -5,6 +5,8 @@
    <item
        android:id="@+id/merengue"
        android:title="Merengue"
+       android:icon="@drawable/musica_romantica"
+       app:showAsAction="ifRoom"
 
 
     <item
