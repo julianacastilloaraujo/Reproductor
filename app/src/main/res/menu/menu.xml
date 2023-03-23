@@ -6,20 +6,20 @@
        android:id="@+id/merengue"
        android:title="Merengue"
        android:icon="@drawable/musica_romantica"
-       app:showAsAction="ifRoom"
+       app:showAsAction="ifRoom"></item>
 
 
     <item
         android:id="@+id/salsa"
         android:title="Salsa"
         android:icon="@drawable/_776114_3"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom"></item>
 
-        <item
+    <item
             android:id="@+id/vallenato"
             android:title="Vallenato"
             android:icon="@drawable/vallenato"
-            app:showAsAction="ifRoom"
-            
+            app:showAsAction="ifRoom"></item>
+
 
 </menu>

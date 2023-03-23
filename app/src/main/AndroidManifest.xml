@@ -15,10 +15,10 @@
             android:name=".vallenato"
             android:exported="false" />
         <activity
-            android:name=".rock"
+            android:name=".salsa"
             android:exported="false" />
         <activity
-            android:name=".salsa"
+            android:name=".merengue"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
